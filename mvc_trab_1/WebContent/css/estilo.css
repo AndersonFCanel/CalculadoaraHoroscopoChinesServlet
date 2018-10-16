@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+table#alter tr td {
+	background: #169f00;
+}
+
+table#alter tr.dif td {
+	background: #ffff00;
+}
+
+table.tabela {
+	border-collapse: collapse;
+	border-style: inset;
+}
+
+table.tabela tr td {
+	border: 2px solid #000000;
+}
+
+/**/
+body {
+	padding: 20px;
+}
+
+label {
+	display: block;
+}
+
+input.error {
+	border: 2px solid red;
+}
+
+label.error {
+	font-weight: normal;
+	color: red;
+}
+
+button {
+	display: block;
+	margin-top: 20px;
+}

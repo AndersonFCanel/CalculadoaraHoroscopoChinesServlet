@@ -1,0 +1,24 @@
+==========================PARTE 1============================== 
+
+a) Implemente um jsp que imprime “Atletico-MG” 20 vezes.(use for, while ou do..while)
+
+b) Implemente um formulário com os campos palavra, quantidade de vezes que deseja repetir a
+palavra e um botão de enviar.
+
+c) Implemente um servlet que recebe as informações enviadas pelo formulário e os envia, em forma de
+atributos, para o jsp feito em (a).
+
+
+==========================PARTE 2============================== 
+
+d) Altere o jsp implementado em (a) para receber os atributos e, palavra informada no campo do
+formulário será impressa no jsp o número de vezes equivalente à quantidade informada.
+
+e) Altere o jsp a palavra impressa repetidas vezes esteja dentro de células em linhas de uma tabela.
+
+f) Altere o jsp para que as cores das células da tabela sejam alternadas entre verde e amarelo.
+
+Observação: Utilize validação de campos (javascript ou jquery ou regex ou outro), utilize CSS para melhorar o
+aspecto das páginas, também é permitido frameworks CSS (Bootstrap, Materialize, etc)
+
+=======================================================
